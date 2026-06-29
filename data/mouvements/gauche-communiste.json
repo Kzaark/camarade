@@ -1,0 +1,23 @@
+{
+  "id": "gauche-communiste",
+  "nom": "Gauche communiste",
+  "période": "Années 1920 — aujourd'hui",
+  "description": "Courant du marxisme né en opposition au stalinisme et au trotskysme, prônant un retour aux principes originels du communisme : internationalisme, autogestion ouvrière et rejet de toute forme de bureaucratie. La gauche communiste critique aussi le frontisme et les alliances avec des partis non révolutionnaires. Elle se divise en plusieurs tendances, comme la Gauche communiste italienne ou la Gauche communiste internationale.",
+  "figures_majeures": [
+    "Amadeo Bordiga",
+    "Anton Pannekoek",
+    "Paul Mattick"
+  ],
+  "oeuvres_majeures": [
+    "La Doctrine communiste (Bordiga, 1951)",
+    "Les Conseils ouvriers (Pannekoek, 1946)",
+    "Marx et Keynes (Mattick, 1969)",
+    "La Gauche communiste en Allemagne (Pannekoek)",
+    "Structure économique et sociale de la Russie d'aujourd'hui (Bordiga, 1957)"
+  ],
+  "cas_concrets": [
+    "Fondation du Parti communiste international (1943) : Bordiga et ses partisans tentent de reconstruire un mouvement communiste non stalinien.",
+    "Révolution des conseils en Allemagne (1918-1919) : Pannekoek et les communistes de conseils défendent l'autogestion ouvrière.",
+    "Critique de l'URSS : La gauche communiste dénonce la bureaucratisation de l'URSS dès les années 1920."
+  ]
+}

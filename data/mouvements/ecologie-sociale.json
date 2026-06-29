@@ -1,0 +1,23 @@
+{
+  "id": "ecologie-sociale",
+  "nom": "Écologie sociale",
+  "période": "Années 1960 — aujourd'hui",
+  "description": "Courant écologiste liant crise environnementale et crise sociale, développé par Murray Bookchin. Il propose une transformation radicale de la société vers des communautés décentralisées, autogérées et en harmonie avec la nature. L'écologie sociale critique à la fois le capitalisme et l'État, qu'elle considère comme responsables de la destruction écologique.",
+  "figures_majeures": [
+    "Murray Bookchin",
+    "Janet Biehl",
+    "Abdullah Öcalan"
+  ],
+  "oeuvres_majeures": [
+    "Écologie ou catastrophisme (Bookchin)",
+    "Le Municipalisme libertaire (Bookchin)",
+    "La Société contre l'État (Pierre Clastres, influence)",
+    "La Civilisation et ses mécontentements (Bookchin)",
+    "Confédéralisme démocratique (Öcalan)"
+  ],
+  "cas_concrets": [
+    "Expérience du Rojava (2012 — aujourd'hui) : Région autonome du Kurdistan syrien organisée selon les principes de l'écologie sociale et du confédéralisme démocratique.",
+    "Mouvement des Villes en transition : Initiatives locales pour une autonomie écologique et sociale.",
+    "Luttes contre les grands projets inutiles (ex : Notre-Dame-des-Landes, France)."
+  ]
+}

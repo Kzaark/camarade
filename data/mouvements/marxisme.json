@@ -1,0 +1,23 @@
+{
+  "id": "marxisme",
+  "nom": "Marxisme",
+  "période": "Années 1840 — aujourd'hui",
+  "description": "Théorie économique, philosophique et politique développée par Karl Marx et Friedrich Engels, analysant les contradictions du capitalisme et appelant à son renversement par la lutte des classes. Le marxisme classique met l'accent sur la révolution prolétarienne, l'abolition de la propriété privée des moyens de production, et l'instauration d'une société sans classes. Il a inspiré de nombreux courants socialistes, anarchistes et révolutionnaires.",
+  "figures_majeures": [
+    "Karl Marx",
+    "Friedrich Engels",
+    "Rosa Luxemburg"
+  ],
+  "oeuvres_majeures": [
+    "Le Manifeste du Parti communiste (Marx & Engels, 1848)",
+    "Le Capital (Marx, 1867-1894)",
+    "L'Idéologie allemande (Marx & Engels, 1845)",
+    "Les Luttes de classes en France (Marx, 1850)",
+    "La Guerre civile en France (Marx, 1871)"
+  ],
+  "cas_concrets": [
+    "Commune de Paris (1871) : Première expérience de pouvoir ouvrier, analysée par Marx comme un exemple de dictature du prolétariat.",
+    "Révolution russe de 1905 : Mobilisation massive des travailleurs et paysans, inspirée par les idées marxistes.",
+    "Mouvements ouvriers du XIXe siècle : Syndicalisation et grèves en Europe, portées par des militants marxistes."
+  ]
+}

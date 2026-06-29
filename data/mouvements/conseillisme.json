@@ -1,0 +1,23 @@
+{
+  "id": "conseillisme",
+  "nom": "Conseillisme",
+  "période": "Années 1920 — aujourd'hui",
+  "description": "Courant marxiste et libertaire prônant l'organisation de la société par des conseils ouvriers (ou soviets) autogérés, sans État ni parti unique. Le conseillisme s'oppose à la fois au capitalisme et au léninisme, qu'il considère comme une forme de bureaucratie. Il puise ses racines dans les révolutions russe et allemande du début du XXe siècle, où les conseils ouvriers ont joué un rôle central.",
+  "figures_majeures": [
+    "Anton Pannekoek",
+    "Rosa Luxemburg",
+    "Karl Korsch"
+  ],
+  "oeuvres_majeures": [
+    "Les Conseils ouvriers (Pannekoek, 1946)",
+    "Marxisme et contre-révolution (Pannekoek, 1938)",
+    "La Révolution allemande (Luxemburg, 1918)",
+    "Marxisme et philosophie (Korsch, 1923)",
+    "Les Conseils en Russie (Pannekoek, 1930)"
+  ],
+  "cas_concrets": [
+    "Révolution russe de 1905 et 1917 : Les soviets (conseils ouvriers) jouent un rôle clé dans l'organisation des travailleurs.",
+    "Révolution allemande de 1918-1919 : Les conseils ouvriers et soldats tentent de prendre le pouvoir, mais sont réprimés.",
+    "Mai 68 en France : Les idées conseillistes resurgissent dans les occupations d'usines et d'universités."
+  ]
+}

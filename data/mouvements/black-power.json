@@ -1,0 +1,23 @@
+{
+  "id": "black-power",
+  "nom": "Black Power",
+  "période": "Années 1960 — aujourd'hui",
+  "description": "Mouvement afro-américain né aux États-Unis dans les années 1960, prônant l'émancipation des Noirs par la fierté raciale, l'autodéfense et la lutte contre le racisme systémique. Contrairement au mouvement des droits civiques (non-violent), le Black Power a souvent défendu l'usage de la force et l'autonomie politique et culturelle des communautés noires. Il a influencé des mouvements similaires dans le monde (ex : Black Consciousness en Afrique du Sud).",
+  "figures_majeures": [
+    "Malcolm X",
+    "Angela Davis",
+    "Stokely Carmichael"
+  ],
+  "oeuvres_majeures": [
+    "Autobiographie de Malcolm X (avec Alex Haley)",
+    "Femmes, race et classe (Davis)",
+    "Black Power (Carmichael & Hamilton)",
+    "Le Capitalisme racial (Cedric Robinson)",
+    "Les Damnés de la Terre (Fanon, influence majeure)"
+  ],
+  "cas_concrets": [
+    "Fondation du Parti des Panthères noires (1966) : Organisation armée pour la défense des communautés noires aux États-Unis.",
+    "Révoltes de Watts (1965) et Detroit (1967) : Soulèvements urbains contre le racisme et les inégalités.",
+    "Mouvement Black Lives Matter (2013 — aujourd'hui) : Héritier du Black Power, lutte contre les violences policières."
+  ]
+}

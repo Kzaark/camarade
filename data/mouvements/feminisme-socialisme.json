@@ -1,0 +1,23 @@
+{
+  "id": "feminisme-socialiste",
+  "nom": "Féminisme socialiste",
+  "période": "Années 1860 — aujourd'hui",
+  "description": "Mouvement liant lutte des classes et lutte des sexes, considérant que l'émancipation des femmes passe par la fin du capitalisme et du patriarcat. Il critique à la fois les inégalités économiques et les structures sociales oppressives. Contrairement au féminisme libéral, il ne se limite pas à des réformes, mais vise une transformation radicale de la société.",
+  "figures_majeures": [
+    "Clara Zetkin",
+    "Alexandra Kollontaï",
+    "Angela Davis"
+  ],
+  "oeuvres_majeures": [
+    "Pour le droit des femmes (Zetkin)",
+    "La Femme nouvelle et la morale sexuelle (Kollontaï)",
+    "Femmes, race et classe (Davis)",
+    "Le Deuxième Sexe (Simone de Beauvoir, influence majeure)",
+    "Caliban et la Sorcière (Silvia Federici)"
+  ],
+  "cas_concrets": [
+    "Journée internationale des femmes (8 mars) : Initiée par Clara Zetkin en 1910 pour les droits des ouvrières.",
+    "Révolution russe de 1917 : Kollontaï obtient des droits pour les femmes (divorce, avortement) avant leur suppression sous Staline.",
+    "Mouvement #MeToo (2017) : Dénonciation systémique des violences sexistes, avec des liens à des analyses socialistes."
+  ]
+}

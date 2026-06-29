@@ -1,0 +1,23 @@
+{
+  "id": "zapatisme",
+  "nom": "Zapatisme",
+  "période": "1994 — aujourd'hui",
+  "description": "Mouvement indigène et paysan mexicain, né avec le soulèvement de l'Armée zapatiste de libération nationale (EZLN) le 1er janvier 1994. Il combine lutte pour les droits des peuples autochtones, écologie, féminisme et opposition au néolibéralisme. Le zapatisme prône l'autonomie locale, la démocratie directe et le rejet de l'État-nation traditionnel.",
+  "figures_majeures": [
+    "Subcomandante Marcos",
+    "Commandante Ramona",
+    "Commandante Esther"
+  ],
+  "oeuvres_majeures": [
+    "La Quatrième Guerre mondiale (Marcos)",
+    "Histoires du vieux Antonio (Marcos)",
+    "Déclarations de la forêt Lacandone (EZLN)",
+    "Les Accords de San Andrés (1996)",
+    "Autonomie et résistance (textes collectifs)"
+  ],
+  "cas_concrets": [
+    "Soulèvement zapatiste de 1994 : Prise de San Cristóbal de las Casas au Chiapas, en réaction à l'entrée en vigueur de l'ALÉNA.",
+    "Création des Caracoles (2003) : Structures autonomes de gouvernement local au Chiapas.",
+    "Marche de la dignité indigène (2001) : Mobilisation pour la reconnaissance des droits autochtones au Mexique."
+  ]
+}

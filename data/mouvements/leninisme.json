@@ -1,0 +1,23 @@
+{
+  "id": "leninisme",
+  "nom": "Léninisme",
+  "période": "1903 — aujourd'hui",
+  "description": "Courant du marxisme développé par Lénine, centré sur la nécessité d'un parti d'avant-garde pour mener la révolution prolétarienne. Le léninisme prône la dictature du prolétariat comme étape transitoire vers une société sans classes. Il a inspiré de nombreux mouvements révolutionnaires, mais a aussi été associé à des dérives autoritaires dans certains contextes.",
+  "figures_majeures": [
+    "Vladimir Lénine",
+    "Léon Trotski",
+    "Nadejda Kroptkine"
+  ],
+  "oeuvres_majeures": [
+    "Que faire ? (Lénine)",
+    "L'État et la révolution (Lénine)",
+    "L'Impérialisme, stade suprême du capitalisme (Lénine)",
+    "Histoire de la Révolution russe (Trotski)",
+    "La Révolution trahie (Trotski)"
+  ],
+  "cas_concrets": [
+    "Révolution d'Octobre 1917 en Russie : Renversement du gouvernement provisoire et prise du pouvoir par les bolchéviques.",
+    "Création de l'URSS (1922) : Premier État socialiste au monde, bien que rapidement marqué par des tensions internes.",
+    "Révolutions anti-coloniales du XXe siècle : Influence du léninisme sur des mouvements comme ceux du Vietnam ou de Cuba (avant leur dérive autoritaire)."
+  ]
+}

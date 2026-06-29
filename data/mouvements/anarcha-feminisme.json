@@ -1,0 +1,23 @@
+{
+  "id": "anarcha-feminisme",
+  "nom": "Anarcha-féminisme",
+  "période": "Fin XIXe siècle — aujourd'hui",
+  "description": "Courant féministe radical au sein de l'anarchisme, qui considère que la lutte contre le patriarcat et le capitalisme sont indissociables. L'anarcha-féminisme rejette toute forme de domination, y compris au sein des mouvements révolutionnaires, et prône l'autogestion, l'égalité absolue entre les sexes et la libération des femmes par elles-mêmes. Il critique aussi les structures autoritaires dans les mouvements de gauche traditionnels.",
+  "figures_majeures": [
+    "Emma Goldman",
+    "Voltairine de Cleyre",
+    "Federica Montseny"
+  ],
+  "oeuvres_majeures": [
+    "Anarchisme et autres essais (Goldman, 1910)",
+    "L'Esclavage sexuel (Voltairine de Cleyre, 1890)",
+    "Ma vie, mon idéologie (Federica Montseny, 1978)",
+    "La Femme et l'État (Goldman, 1917)",
+    "Le Féminisme anarchiste (collectif, années 1970)"
+  ],
+  "cas_concrets": [
+    "Mouvement des femmes libertaires en Espagne (1936-1939) : Federica Montseny devient ministre de la Santé et de l'Assistance sociale pendant la révolution espagnole.",
+    "Féminisme radical aux États-Unis (années 1970) : Des groupes anarchistes-féministes luttent contre le sexisme au sein de la gauche.",
+    "Mouvements féministes contemporains : L'anarcha-féminisme influence des collectifs comme les 'Femen' ou des groupes queers."
+  ]
+}

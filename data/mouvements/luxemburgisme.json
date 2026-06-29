@@ -1,0 +1,23 @@
+{
+  "id": "luxemburgisme",
+  "nom": "Luxemburgisme",
+  "période": "Années 1900 — aujourd'hui",
+  "description": "Courant marxiste développé par Rosa Luxemburg, mettant l'accent sur la démocratie ouvrière, l'internationalisme et la critique du léninisme. Le luxemburgisme défend l'idée que la révolution doit être l'œuvre des masses elles-mêmes, et non d'une avant-garde parti. Il insiste aussi sur l'importance de la liberté d'expression et de la critique au sein du mouvement socialiste.",
+  "figures_majeures": [
+    "Rosa Luxemburg",
+    "Karl Liebknecht",
+    "Paul Levi"
+  ],
+  "oeuvres_majeures": [
+    "Réforme ou révolution ? (Luxemburg, 1899)",
+    "L'Accumulation du capital (Luxemburg, 1913)",
+    "La Crise de la social-démocratie allemande (Luxemburg, 1915)",
+    "Le Programme de la Ligue spartakiste (Luxemburg & Liebknecht, 1918)",
+    "La Révolution russe (Luxemburg, 1918)"
+  ],
+  "cas_concrets": [
+    "Révolution allemande de 1918-1919 : Luxemburg et Liebknecht fondent la Ligue spartakiste et mènent l'insurrection contre le gouvernement social-démocrate.",
+    "Grèves de masse en Pologne (1905-1907) : Luxemburg analyse ces mouvements comme des exemples de lutte révolutionnaire spontanée.",
+    "Mouvements anti-guerre (1914-1918) : Luxemburg s'oppose à la Première Guerre mondiale et appelle à la fraternisation des soldats."
+  ]
+}

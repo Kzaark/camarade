@@ -1,0 +1,23 @@
+{
+  "id": "anarchisme",
+  "nom": "Anarchisme",
+  "période": "Années 1840 — aujourd'hui",
+  "description": "Courant politique et philosophique prônant l'abolition de toute forme de hiérarchie, d'État et de capitalisme, au profit d'une société fondée sur l'autogestion, la coopération volontaire et la liberté individuelle. L'anarchisme se décline en plusieurs courants (communiste, individualiste, syndicaliste, etc.) et a inspiré de nombreuses révoltes et expériences sociales à travers le monde.",
+  "figures_majeures": [
+    "Pierre-Joseph Proudhon",
+    "Mikhaïl Bakounine",
+    "Pierre Kropotkine"
+  ],
+  "oeuvres_majeures": [
+    "Qu'est-ce que la propriété ? (Proudhon, 1840)",
+    "Dieu et l'État (Bakounine, 1882)",
+    "La Conquête du pain (Kropotkine, 1892)",
+    "L'Homme et la Terre (Kropotkine, 1902)",
+    "Anarchisme et autres essais (Emma Goldman, 1910)"
+  ],
+  "cas_concrets": [
+    "Commune de Paris (1871) : Expérience d'autogestion souvent revendiquée par les anarchistes.",
+    "Révolution espagnole (1936-1939) : Collectivisations et autogestion en Catalogne et en Aragon sous l'impulsion de la CNT-FAI.",
+    "Makhnovchtchina (1918-1921) : Société libertaire en Ukraine, dirigée par Nestor Makhno."
+  ]
+}

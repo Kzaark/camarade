@@ -1,0 +1,23 @@
+{
+  "id": "marxisme-revolutionnaire",
+  "nom": "Marxisme révolutionnaire",
+  "période": "Années 1840 — aujourd'hui",
+  "description": "Courant marxiste insistant sur la nécessité d'une révolution prolétarienne pour renverser le capitalisme et instaurer une société sans classes. Contrairement au marxisme réformiste, il rejette les compromis avec le système existant. Il inclut des variantes comme le trotskisme, le luxembourgisme ou le maoïsme (exclu ici).",
+  "figures_majeures": [
+    "Karl Marx",
+    "Rosa Luxemburg",
+    "Léon Trotski"
+  ],
+  "oeuvres_majeures": [
+    "Le Manifeste du Parti communiste (Marx & Engels)",
+    "Réforme ou révolution ? (Luxemburg)",
+    "La Révolution permanente (Trotski)",
+    "Le Capital (Marx)",
+    "L'Accumulation du capital (Luxemburg)"
+  ],
+  "cas_concrets": [
+    "Révolution russe de 1917 : Renversement du tsarisme et tentative de construction d'une société socialiste (avant la dérive stalinienne).",
+    "Révolution allemande de 1918-1919 : Soulèvement spartakiste réprimé dans le sang.",
+    "Mai 68 en France : Mouvement étudiant et ouvrier inspirée par des idées marxistes révolutionnaires."
+  ]
+}

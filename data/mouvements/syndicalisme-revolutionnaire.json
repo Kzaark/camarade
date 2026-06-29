@@ -1,0 +1,23 @@
+{
+  "id": "syndicalisme-revolutionnaire",
+  "nom": "Syndicalisme révolutionnaire",
+  "période": "Fin XIXe siècle — aujourd'hui",
+  "description": "Mouvement ouvrier prônant l'action directe (grèves générales, sabotages, occupations) pour renverser le capitalisme et l'État. Contrairement au syndicalisme réformiste, il vise la révolution sociale par l'organisation autonome des travailleurs. La CGT française (avant 1914) et la CNT espagnole en sont des exemples historiques.",
+  "figures_majeures": [
+    "Fernand Pelloutier",
+    "Émile Pouget",
+    "Buenaventura Durruti"
+  ],
+  "oeuvres_majeures": [
+    "L'Action directe (Pouget)",
+    "Le Syndicalisme et la Grève générale (Pelloutier)",
+    "La Grève générale (Durruti)",
+    "La Charte d'Amiens (1906)",
+    "Les Temps nouveaux (journal anarchiste)"
+  ],
+  "cas_concrets": [
+    "Grève générale de 1906 en France : Mobilisation massive pour la journée de 8 heures.",
+    "Révolution espagnole de 1936 : La CNT-FAI organise des milices et des collectivisations.",
+    "Mouvement des Gilets jaunes (2018-2019) : Réappropriation partielle des méthodes d'action directe."
+  ]
+}

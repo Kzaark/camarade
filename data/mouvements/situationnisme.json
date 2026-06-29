@@ -1,0 +1,23 @@
+{
+  "id": "situationnisme",
+  "nom": "Situationnisme",
+  "période": "Années 1950 — aujourd'hui",
+  "description": "Mouvement artistique et politique né en France dans les années 1950, fondé par Guy Debord et d'autres artistes révolutionnaires. Le situationnisme critique la société du spectacle, le capitalisme et l'aliénation moderne, et prône la création de 'situations' libérées de l'oppression, à travers l'art, la subversion et la révolution quotidienne. Son influence s'étend à Mai 68 et aux mouvements autonomes contemporains.",
+  "figures_majeures": [
+    "Guy Debord",
+    "Raoul Vaneigem",
+    "Michèle Bernstein"
+  ],
+  "oeuvres_majeures": [
+    "La Société du spectacle (Debord, 1967)",
+    "Traité de savoir-vivre à l'usage des jeunes générations (Vaneigem, 1967)",
+    "Mémoires (Debord, 1959)",
+    "De la misère en milieu étudiant (collectif, 1966)",
+    "Panégyrique (Debord, 1989)"
+  ],
+  "cas_concrets": [
+    "Mai 68 en France : Les situationnistes jouent un rôle clé dans les occupations et les slogans révolutionnaires ('Sous les pavés, la plage').",
+    "Mouvement des enragés (1968) : Groupe radical inspiré par le situationnisme, actif pendant les événements de Mai.",
+    "Influence sur l'art contemporain : Le situationnisme inspire des artistes et des collectifs critiques de la société de consommation."
+  ]
+}

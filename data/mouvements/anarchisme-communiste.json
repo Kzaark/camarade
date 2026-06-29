@@ -1,0 +1,23 @@
+{
+  "id": "anarchisme-communiste",
+  "nom": "Anarchisme communiste",
+  "période": "Années 1870 — aujourd'hui",
+  "description": "Courant anarchiste prônant l'abolition de l'État, du capitalisme et de la propriété privée au profit d'une société autogérée, égalitaire et sans classes. Inspiré par des théoriciens comme Kropotkine, il repose sur la libre association des individus et la mise en commun des ressources. L'anarchisme communiste a été un acteur majeur des révolutions sociales, notamment en Espagne (1936) et en Ukraine (1918-1921).",
+  "figures_majeures": [
+    "Pierre-Joseph Proudhon",
+    "Pierre Kropotkine",
+    "Emma Goldman"
+  ],
+  "oeuvres_majeures": [
+    "La Conquête du pain (Kropotkine)",
+    "Mutualisme (Proudhon)",
+    "Anarchisme et autres essais (Goldman)",
+    "L'Homme et la Terre (Kropotkine)",
+    "La Morale anarchiste (Kropotkine)"
+  ],
+  "cas_concrets": [
+    "Révolution sociale espagnole (1936-1939) : Collectivisations en Catalogne et en Aragon sous l'égide de la CNT-FAI.",
+    "Makhnovchtchina (1918-1921) : Société autogérée en Ukraine sous Nestor Makhno, écrasée par les bolchéviques.",
+    "Commune de Paris (1871) : Expérience d'autogestion ouvrière, souvent revendiquée comme précurseur."
+  ]
+}

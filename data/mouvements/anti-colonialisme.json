@@ -1,0 +1,23 @@
+{
+  "id": "anti-colonialisme",
+  "nom": "Anti-colonialisme",
+  "période": "XIXe siècle — aujourd'hui",
+  "description": "Mouvement de résistance contre la domination politique, économique et culturelle des puissances coloniales. Il inclut des luttes armées, des mouvements culturels et des théories critiques (comme le postcolonialisme). L'anti-colonialisme a souvent été lié au socialisme ou à l'anarchisme, notamment pour dénoncer l'exploitation capitaliste des colonies.",
+  "figures_majeures": [
+    "Frantz Fanon",
+    "Amílcar Cabral",
+    "Thomas Sankara"
+  ],
+  "oeuvres_majeures": [
+    "Les Damnés de la Terre (Fanon)",
+    "Peau noire, masques blancs (Fanon)",
+    "Analyse de quelques types de résistance (Cabral)",
+    "Discours à l'ONU (Sankara)",
+    "Le Colonialisme en question (Aimé Césaire)"
+  ],
+  "cas_concrets": [
+    "Guerre d'indépendance algérienne (1954-1962) : Lutte du FLN contre la France, inspirée par Fanon.",
+    "Révolution guinéenne (1959-1980) : Sous Cabral, la Guinée-Bissau et le Cap-Vert obtiennent leur indépendance du Portugal.",
+    "Révolution burkinabé (1983-1987) : Sankara nationalise les terres et les ressources, et lutte contre la dette néocoloniale."
+  ]
+}

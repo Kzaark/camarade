@@ -1,0 +1,23 @@
+{
+  "id": "bordiguisme",
+  "nom": "Bordiguisme",
+  "période": "Années 1920 — aujourd'hui",
+  "description": "Courant de la gauche communiste, fondé par Amadeo Bordiga, qui insiste sur la nécessité d'un parti révolutionnaire strictement centralisé et discipliné pour mener la lutte prolétarienne. Le bordiguisme rejette toute alliance avec des forces non révolutionnaires et critique le frontisme. Il se distingue par son intransigeance théorique et son refus de toute participation aux institutions bourgeoises.",
+  "figures_majeures": [
+    "Amadeo Bordiga",
+    "Otto Rühle",
+    "Onorato Damen"
+  ],
+  "oeuvres_majeures": [
+    "La Doctrine communiste (Bordiga, 1951)",
+    "Dialogue avec Staline (Bordiga, 1952)",
+    "La Structure économique et sociale de la Russie d'aujourd'hui (Bordiga, 1957)",
+    "Thèses de Lyon (1926)",
+    "Thèses de Naples (1965)"
+  ],
+  "cas_concrets": [
+    "Fondation du Parti communiste international (1943) : Bordiga et ses partisans tentent de reconstruire un mouvement communiste non stalinien.",
+    "Critique de l'URSS : Bordiga dénonce dès les années 1920 la dégénérescence bureaucratique de l'URSS.",
+    "Influence sur la Nouvelle Gauche (années 1960-1970) : Certains groupes bordiguistes inspirent des mouvements étudiants et ouvriers en Europe."
+  ]
+}
