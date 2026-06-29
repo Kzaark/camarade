@@ -1,0 +1,13 @@
+{
+  "id": "kropotkine",
+  "nom": "Pierre Kropotkine",
+  "dates": "1842 — 1921",
+  "courant": ["anarchisme communiste", "anarchisme", "entraide"],
+  "description": "Pierre Kropotkine est le principal théoricien de l'anarchisme communiste. Né prince dans une famille aristocratique russe, il renonce à ses titres et privilèges pour se consacrer à la cause révolutionnaire. Géographe de formation, il développe une vision scientifique de l'anarchisme fondée sur le concept d'entraide comme moteur de l'évolution — en opposition au darwinisme social. Emprisonné en Russie puis exilé en Europe occidentale pendant de longues années, il rentre en Russie après la révolution de 1917 mais critique rapidement la dérive autoritaire des bolchéviques. Il meurt en 1921, respecté de tous mais isolé politiquement.",
+  "oeuvres": [
+    "L'Entraide, un facteur de l'évolution (1902)",
+    "La Conquête du pain (1892)"
+  ],
+  "positions": "Anarchisme communiste — abolition de l'État et de la propriété privée au profit de communes libres fédérées ; entraide comme base naturelle de l'organisation sociale contre le darwinisme social ; décentralisation et autogestion ; critique de la dictature du prolétariat comme nouvelle oppression ; révolution sociale globale et non partielle.",
+  "citation": "Soit l'anarchie est la plus haute expression de l'ordre, soit elle ne signifie rien."
+}

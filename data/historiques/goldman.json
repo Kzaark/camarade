@@ -1,0 +1,13 @@
+{
+  "id": "goldman",
+  "nom": "Emma Goldman",
+  "dates": "1869 — 1940",
+  "courant": ["anarchisme communiste", "féminisme anarchiste", "antimilitarisme"],
+  "description": "Emma Goldman est la grande figure de l'anarchisme américain et l'une des militantes les plus radicales de son époque. Née en Lituanie dans une famille juive, elle émigre aux États-Unis à 16 ans et découvre rapidement les conditions brutales du capitalisme industriel américain. L'exécution des martyrs de Haymarket en 1887 la convertit définitivement à l'anarchisme. Militante infatigable, conférencière brillante, elle combat pour les droits des travailleurs, le contrôle des naissances, la liberté sexuelle et contre la guerre. Expulsée des États-Unis en 1919 vers la Russie soviétique, elle critique rapidement la dérive autoritaire bolchévique et passe ses dernières années en exil européen.",
+  "oeuvres": [
+    "Anarchisme et autres essais (1910)",
+    "Ma désillusion en Russie (1923)"
+  ],
+  "positions": "Anarchisme communiste contre tout État et toute autorité ; féminisme radical — émancipation des femmes comme condition de la liberté ; antimilitarisme et refus de la conscription ; libre amour et libération sexuelle contre la morale bourgeoise ; critique du bolchévisme comme nouvelle tyrannie d'État.",
+  "citation": "Si je ne peux pas danser, ce n'est pas ma révolution."
+}

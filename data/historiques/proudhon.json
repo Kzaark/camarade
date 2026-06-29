@@ -1,0 +1,13 @@
+{
+  "id": "proudhon",
+  "nom": "Pierre-Joseph Proudhon",
+  "dates": "1809 — 1865",
+  "courant": ["anarchisme", "mutualisme", "fédéralisme"],
+  "description": "Pierre-Joseph Proudhon est le premier penseur à se revendiquer explicitement anarchiste. Fils d'artisan franc-comtois, autodidacte brillant, il devient typographe avant de se consacrer à la théorie sociale. Sa formule 'la propriété c'est le vol' fait scandale en 1840 et le propulse au cœur du débat politique européen. Élu à l'Assemblée nationale en 1848, il y siège avec inconfort, hostile à tout pouvoir politique. Emprisonné, exilé, il développe une pensée originale fondée sur le mutualisme — échange équitable entre producteurs — et le fédéralisme contre l'État centralisé. Marx l'admire d'abord avant de le critiquer sévèrement dans Misère de la philosophie.",
+  "oeuvres": [
+    "Qu'est-ce que la propriété ? (1840)",
+    "Du principe fédératif (1863)"
+  ],
+  "positions": "La propriété privée comme vol et source de toute exploitation ; mutualisme — organisation sociale fondée sur l'échange équitable et le crédit gratuit ; fédéralisme contre tout État centralisé ; opposition à la révolution violente au profit de la transformation progressive par l'économie ; critique du communisme autoritaire.",
+  "citation": "La propriété, c'est le vol !"
+}

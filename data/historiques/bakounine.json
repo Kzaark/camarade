@@ -1,0 +1,13 @@
+{
+  "id": "bakounine",
+  "nom": "Mikhaïl Bakounine",
+  "dates": "1814 — 1876",
+  "courant": ["anarchisme", "collectivisme", "anti-autoritarisme"],
+  "description": "Mikhaïl Bakounine est le père fondateur de l'anarchisme collectiviste et le grand rival de Marx au sein de la Première Internationale. Né dans une famille aristocratique russe, il rompt avec son milieu pour se consacrer à la révolution. Emprisonné en Russie puis déporté en Sibérie, il s'évade spectaculairement en 1861 via le Japon et les États-Unis. Figure charismatique et tempétueuse, il développe une critique radicale de tout pouvoir d'État, y compris le socialisme d'État marxiste qu'il juge porteur d'une nouvelle tyrannie. Son exclusion de la Première Internationale en 1872 consacre la rupture historique entre marxisme et anarchisme.",
+  "oeuvres": [
+    "Dieu et l'État (1882, posthume)",
+    "L'Empire knouto-germanique et la révolution sociale (1871)"
+  ],
+  "positions": "Abolition immédiate de l'État sans phase transitoire ; fédéralisme révolutionnaire contre le centralisme marxiste ; athéisme militant — la religion comme instrument d'oppression ; collectivisation des moyens de production sans État centralisateur ; révolution spontanée des masses contre l'avant-garde dirigeante.",
+  "citation": "La liberté sans le socialisme, c'est le privilège et l'injustice. Le socialisme sans la liberté, c'est l'esclavage et la brutalité."
+}

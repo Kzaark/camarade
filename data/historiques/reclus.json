@@ -1,0 +1,13 @@
+{
+  "id": "reclus",
+  "nom": "Élisée Reclus",
+  "dates": "1830 — 1905",
+  "courant": ["anarchisme communiste", "géographie sociale", "végétarisme"],
+  "description": "Élisée Reclus est le grand géographe anarchiste du XIXe siècle, pionnier d'une vision écologique et sociale de la géographie. Né dans une famille protestante du Sud-Ouest, il étudie la géographie à Berlin avant de rejoindre le mouvement révolutionnaire. Participant à la Commune de Paris en 1871, il est condamné à la déportation, peine commuée en exil grâce à la pétition de nombreux savants européens. Depuis son exil, il rédige sa monumentale Nouvelle Géographie universelle tout en militant activement pour l'anarchisme. Végétarien convaincu, il est l'un des premiers penseurs à lier émancipation sociale et rapport à la nature.",
+  "oeuvres": [
+    "Nouvelle Géographie universelle (1876-1894)",
+    "L'Homme et la Terre (1905-1908, posthume)"
+  ],
+  "positions": "Anarchisme communiste fédéraliste ; géographie sociale comme outil de compréhension des inégalités ; lien indissociable entre émancipation humaine et respect de la nature ; végétarisme comme cohérence éthique avec l'anarchisme ; internationalisme et critique du nationalisme.",
+  "citation": "L'anarchie est la plus haute expression de l'ordre."
+}

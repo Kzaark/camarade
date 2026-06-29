@@ -1,0 +1,13 @@
+{
+  "id": "volin",
+  "nom": "Volin",
+  "dates": "1882 — 1945",
+  "courant": ["anarchisme communiste", "synthésisme anarchiste", "makhnovchtchina"],
+  "description": "Volin, de son vrai nom Vsevolod Mikhaïlovitch Eichenbaum, est l'un des principaux théoriciens de l'anarchisme russe et le chroniqueur de la révolution makhnoviste. Né dans une famille intellectuelle juive de Russie, il rejoint le mouvement révolutionnaire dès sa jeunesse et participe à la révolution de 1905. Exilé aux États-Unis, il rentre en Russie après 1917 et rejoint le mouvement makhnoviste en Ukraine, dont il devient l'un des principaux animateurs culturels et politiques. Arrêté par les bolchéviques, il s'exile en Europe occidentale où il rédige son œuvre majeure sur la révolution inconnue. Partisan du synthésisme anarchiste, il cherche à unifier les différents courants anarchistes.",
+  "oeuvres": [
+    "La Révolution inconnue (1947, posthume)",
+    "La Synthèse anarchiste (1924)"
+  ],
+  "positions": "Synthésisme anarchiste — unité des différents courants anarchistes au sein d'une organisation commune ; soutien à la makhnovchtchina comme expérience d'autogestion révolutionnaire ; critique du bolchévisme comme trahison de la révolution ; organisation anarchiste structurée sans hiérarchie ni autorité.",
+  "citation": "La révolution véritable est celle qui met l'homme debout, libre et conscient de lui-même."
+}
