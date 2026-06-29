@@ -1,0 +1,13 @@
+{
+  "id": "berkman",
+  "nom": "Alexander Berkman",
+  "dates": "1870 — 1936",
+  "courant": ["anarchisme individualiste", "propagande par le fait", "anti-autoritarisme"],
+  "description": "Alexander Berkman était un militant anarchiste russe-américain, compagnon d'Emma Goldman. Emprisonné pour son engagement révolutionnaire, il a écrit des textes majeurs sur l'anarchisme et la critique du système pénitentiaire. Son œuvre *L'Homme moderne et l'État* reste une référence pour la pensée libertaire.",
+  "oeuvres": [
+    "L'Homme moderne et l'État",
+    "Mémoires d'un anarchiste"
+  ],
+  "positions": "Anarchisme individualiste — rejet de toute autorité et de toute hiérarchie ; propagande par le fait — utilisation de l'action directe pour la révolution ; anti-autoritarisme — opposition à l'État et au capitalisme.",
+  "citation": "L'anarchisme signifie la libération de l'esprit humain des chaînes de la religion, de la propriété, et de l'État."
+}

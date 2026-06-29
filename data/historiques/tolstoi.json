@@ -1,0 +1,13 @@
+{
+  "id": "tolstoi",
+  "nom": "Léon Tolstoï",
+  "dates": "1828 — 1910",
+  "courant": ["anarchisme chrétien", "pacifisme", "non-violence"],
+  "description": "Léon Tolstoï était un écrivain russe, auteur de chefs-d'œuvre comme *Guerre et Paix*, mais aussi un penseur radical qui a évolué vers l'anarchisme chrétien. Il a prôné la non-violence, la simplicité volontaire et la résistance à l'État, influençant des mouvements comme celui de Gandhi. Son engagement pour la justice sociale et son rejet des institutions oppressives en ont fait une figure majeure de la pensée libertaire.",
+  "oeuvres": [
+    "La Sonate à Kreutzer",
+    "Le Royaume de Dieu est en vous"
+  ],
+  "positions": "Anarchisme chrétien — rejet de l'État et de la propriété privée au nom des valeurs évangéliques ; pacifisme — opposition à toute forme de violence ; non-violence — résistance passive comme moyen de transformation sociale.",
+  "citation": "Le gouvernement est une association de malfaiteurs qui exploitent et réduisent en esclavage la classe ouvrière."
+}

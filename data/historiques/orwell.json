@@ -1,0 +1,13 @@
+{
+  "id": "orwell",
+  "nom": "George Orwell",
+  "dates": "1903 — 1950",
+  "courant": ["socialisme démocratique", "anti-totalitarisme", "journalisme engagé"],
+  "description": "George Orwell, de son vrai nom Eric Arthur Blair, était un écrivain et journaliste britannique, connu pour ses critiques acerbes du totalitarisme et son engagement en faveur du socialisme démocratique. Ses œuvres, marquées par son expérience de la guerre d'Espagne et de la vie ouvrière, restent des références pour la défense de la liberté et de la justice sociale.",
+  "oeuvres": [
+    "1984",
+    "La Ferme des animaux"
+  ],
+  "positions": "Socialisme démocratique — foi en une société égalitaire sans autoritarisme ; anti-totalitarisme — opposition aux régimes fascistes et staliniens ; journalisme engagé — utilisation de l'écriture comme arme politique.",
+  "citation": "La liberté, c'est la liberté de dire que deux et deux font quatre."
+}

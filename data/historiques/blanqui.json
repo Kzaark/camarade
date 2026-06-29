@@ -1,0 +1,13 @@
+{
+  "id": "blanqui",
+  "nom": "Louis-Auguste Blanqui dit 'l'Enfermé'",
+  "dates": "1805 — 1881",
+  "courant": ["socialisme révolutionnaire", "communisme autoritaire", "républicanisme radical"],
+  "description": "Louis-Auguste Blanqui, surnommé 'l'Enfermé' en raison de ses nombreuses années passées en prison, était un révolutionnaire français, théoricien du socialisme et figure majeure des mouvements insurrectionnels du XIXe siècle. Emprisonné à de nombreuses reprises pour ses activités politiques, il a inspiré des générations de militants par son intransigeance et sa foi en la révolution comme moyen de renverser l'ordre bourgeois. Son œuvre a marqué l'histoire du socialisme français, notamment par son appel à une avant-garde organisée pour mener la lutte des classes.",
+  "oeuvres": [
+    "Instructions pour une prise d'armes",
+    "Critique sociale"
+  ],
+  "positions": "Socialisme révolutionnaire — renversement violent de l'ordre capitaliste ; communisme autoritaire — nécessité d'une direction centralisée pour la révolution ; républicanisme radical — opposition à toute forme de monarchie ou de compromis avec la bourgeoisie.",
+  "citation": "La révolution n'est pas un dîner de gala."
+}

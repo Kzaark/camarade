@@ -1,0 +1,13 @@
+{
+  "id": "guevara",
+  "nom": "Che Guevara",
+  "dates": "1928 — 1967",
+  "courant": ["marxisme-léninisme", "guérilla révolutionnaire", "anti-impérialisme"],
+  "description": "Ernesto 'Che' Guevara était un révolutionnaire marxiste, médecin, écrivain et guérillero argentin. Figure emblématique de la révolution cubaine aux côtés de Fidel Castro, il a lutté contre l'impérialisme et pour la libération des peuples opprimés en Amérique latine et en Afrique. Son image est devenue un symbole mondial de la lutte anti-coloniale et de l'idéalisme révolutionnaire.",
+  "oeuvres": [
+    "La Guerre de guérilla",
+    "Le Socialisme et l'homme à Cuba"
+  ],
+  "positions": "Marxisme-léninisme — foi en la révolution prolétarienne et en la dictature du prolétariat ; guérilla révolutionnaire — utilisation de la lutte armée pour renverser les régimes oppressifs ; anti-impérialisme — opposition à l'hégémonie des grandes puissances capitalistes.",
+  "citation": "Je ne suis pas un libérateur. Les peuples se libèrent eux-mêmes."
+}

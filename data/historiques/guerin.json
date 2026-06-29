@@ -1,0 +1,13 @@
+{
+  "id": "guerin",
+  "nom": "Daniel Guérin",
+  "dates": "1904 — 1988",
+  "courant": ["socialisme libertaire", "anti-colonialisme", "féminisme"],
+  "description": "Daniel Guérin était un écrivain, militant et théoricien français, connu pour son engagement en faveur du socialisme libertaire, de l'anti-colonialisme et des droits des minorités. Son œuvre a marqué la gauche révolutionnaire par sa défense d'un socialisme sans État, anti-autoritaire et internationaliste.",
+  "oeuvres": [
+    "Fascisme et grand capital",
+    "Anarchisme"
+  ],
+  "positions": "Socialisme libertaire — rejet de l'État et du capitalisme au profit de l'autogestion ; anti-colonialisme — lutte contre l'impérialisme et pour l'émancipation des peuples opprimés ; féminisme — défense de l'égalité des sexes dans la révolution sociale.",
+  "citation": "Le socialisme ne peut être que libertaire ou il ne sera pas."
+}

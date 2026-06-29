@@ -1,0 +1,13 @@
+{
+  "id": "sankara",
+  "nom": "Thomas Sankara",
+  "dates": "1949 — 1987",
+  "courant": ["panafricanisme", "socialisme burkinabé", "anti-néocolonialisme"],
+  "description": "Thomas Sankara était un militaire, révolutionnaire et homme d'État burkinabé, président du Burkina Faso de 1983 à 1987. Surnommé le 'Che Guevara africain', il a mené une révolution anti-impérialiste et anti-néocoloniale, promouvant l'autosuffisance, l'éducation, la santé et les droits des femmes. Son assassinat en 1987 a mis fin à une expérience unique de socialisme en Afrique, mais son héritage reste une source d'inspiration pour les mouvements panafricains.",
+  "oeuvres": [
+    "Discours à l'ONU",
+    "La Patrie ou la mort, nous vaincrons"
+  ],
+  "positions": "Panafricanisme — unité et émancipation de l'Afrique ; socialisme burkinabé — développement autogéré et anti-impérialiste ; anti-néocolonialisme — lutte contre l'exploitation économique des anciennes puissances coloniales.",
+  "citation": "Un pays qui se nourrit mal, qui ne s'instruit pas, qui ne se soigne pas, est un pays qui ne peut pas se défendre."
+}

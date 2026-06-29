@@ -1,0 +1,13 @@
+{
+  "id": "bookchin",
+  "nom": "Murray Bookchin",
+  "dates": "1921 — 2006",
+  "courant": ["écologie sociale", "municipalisme libertaire", "anarchisme"],
+  "description": "Murray Bookchin était un théoricien américain, fondateur de l'écologie sociale. Il a développé une critique radicale du capitalisme et de l'État, proposant à la place une organisation sociale basée sur des communes locales et l'autogestion. Son œuvre a influencé les mouvements écologistes et libertaires contemporains.",
+  "oeuvres": [
+    "Écologie ou catastrophisme",
+    "Le Municipalisme libertaire"
+  ],
+  "positions": "Écologie sociale — lien entre crise écologique et crise sociale ; municipalisme libertaire — organisation en communes autogérées ; anarchisme — rejet de l'État et du capitalisme.",
+  "citation": "Si nous ne changeons pas la société, nous ne sauverons pas la planète."
+}

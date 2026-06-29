@@ -1,0 +1,13 @@
+{
+  "id": "breton",
+  "nom": "André Breton",
+  "dates": "1896 — 1966",
+  "courant": ["surréalisme révolutionnaire", "marxisme heterodoxe", "anti-colonialisme"],
+  "description": "André Breton, poète et théoricien du surréalisme, a aussi été un militant engagé. Proche du trotskisme dans les années 1930, il a défendu l'art comme outil de révolution et soutenu les luttes anti-coloniales. Son *Manifeste du surréalisme* et ses prises de position politiques en font une figure complexe de la gauche radicale.",
+  "oeuvres": [
+    "Manifeste du surréalisme",
+    "Position politique du surréalisme"
+  ],
+  "positions": "Surréalisme révolutionnaire — libération de l'imaginaire comme outil de transformation sociale ; marxisme heterodoxe — critique du stalinisme et défense d'un marxisme libertaire ; anti-colonialisme — soutien aux mouvements de libération.",
+  "citation": "La beauté sera CONVULSIVE ou ne sera pas."
+}

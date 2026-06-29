@@ -1,0 +1,13 @@
+{
+  "id": "ibarruri",
+  "nom": "Dolores Ibárruri (La Pasionaria)",
+  "dates": "1895 — 1989",
+  "courant": ["communisme", "anti-fascisme", "féminisme ouvrier"],
+  "description": "Dolores Ibárruri, connue sous le nom de 'La Pasionaria', était une militante communiste espagnole, symbole de la lutte contre le fascisme pendant la guerre civile espagnole. Son célèbre discours 'No pasarán !' est devenu un cri de ralliement pour les républicains. Exilée après la victoire franquiste, elle a continué à se battre pour la justice sociale et les droits des femmes.",
+  "oeuvres": [
+    "Ils ne passeront pas !",
+    "Mémoires de Dolores Ibárruri"
+  ],
+  "positions": "Communisme — lutte pour une société sans classes ; anti-fascisme — résistance contre les régimes autoritaires ; féminisme ouvrier — défense des droits des femmes travailleuses.",
+  "citation": "Mieux vaut mourir debout que vivre à genoux."
+}

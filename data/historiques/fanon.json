@@ -1,0 +1,13 @@
+{
+  "id": "fanon",
+  "nom": "Frantz Fanon",
+  "dates": "1925 — 1961",
+  "courant": ["anti-colonialisme", "marxisme décolonial", "psychiatrie révolutionnaire"],
+  "description": "Frantz Fanon était un psychiatre, philosophe et révolutionnaire martiniquais. Auteur de *Peau noire, masques blancs* et *Les Damnés de la Terre*, il a analysé les effets psychologiques du colonialisme et théorisé la violence comme moyen de libération pour les peuples opprimés. Son œuvre reste une référence pour les mouvements décoloniaux et anti-impérialistes.",
+  "oeuvres": [
+    "Les Damnés de la Terre",
+    "Peau noire, masques blancs"
+  ],
+  "positions": "Anti-colonialisme — lutte pour l'émancipation des peuples colonisés ; marxisme décolonial — adaptation du marxisme aux réalités des pays du Sud ; psychiatrie révolutionnaire — critique de l'aliénation coloniale.",
+  "citation": "Chaque génération doit, dans une relative opacité, découvrir sa mission, l'accomplir ou la trahir."
+}

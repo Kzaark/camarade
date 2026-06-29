@@ -1,0 +1,13 @@
+{
+  "id": "jaures",
+  "nom": "Jean Jaurès",
+  "dates": "1859 — 1914",
+  "courant": ["socialisme réformiste", "pacifisme", "humanisme socialiste"],
+  "description": "Jean Jaurès était un philosophe, historien et homme politique français, fondateur de la SFIO et figure majeure du socialisme français. Défenseur acharné de la paix et de la justice sociale, il a marqué l'histoire par son engagement pour les droits des travailleurs, l'éducation populaire et l'internationalisme. Assassiné en 1914 pour son opposition à la guerre, il reste un symbole de l'idéal socialiste et humaniste.",
+  "oeuvres": [
+    "Histoire socialiste de la Révolution française",
+    "Discours pour la paix"
+  ],
+  "positions": "Socialisme réformiste — transformation progressive de la société par des réformes ; pacifisme — opposition à la guerre et à l'impérialisme ; humanisme socialiste — foi en l'émancipation humaine par la solidarité et la justice.",
+  "citation": "Le courage, c'est d'aller à l'idéal et de comprendre le réel."
+}

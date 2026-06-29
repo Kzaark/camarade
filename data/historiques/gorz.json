@@ -1,0 +1,13 @@
+{
+  "id": "gorz",
+  "nom": "André Gorz",
+  "dates": "1923 — 2007",
+  "courant": ["écologie politique", "socialisme autogestionnaire", "critique du capitalisme"],
+  "description": "André Gorz, philosophe et journaliste franco-autrichien, était un penseur majeur de l'écologie politique et du socialisme autogestionnaire. Proche de Sartre et de *Les Temps Modernes*, il a analysé les limites du capitalisme et proposé des alternatives fondées sur la décroissance et l'émancipation humaine. Son livre *Écologie et politique* reste une référence.",
+  "oeuvres": [
+    "Écologie et politique",
+    "Métamorphoses du travail"
+  ],
+  "positions": "Écologie politique — critique de la croissance infinie et défense de la soutenabilité ; socialisme autogestionnaire — organisation collective et démocratique de l'économie ; critique du capitalisme — dénonciation de l'aliénation et de l'exploitation.",
+  "citation": "Travailler moins pour vivre mieux."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "serge",
+  "nom": "Victor Serge",
+  "dates": "1890 — 1947",
+  "courant": ["marxisme critique", "anti-stalinisme", "internationalisme révolutionnaire"],
+  "description": "Victor Serge, de son vrai nom Victor Lvovich Kibalchich, était un révolutionnaire russe, écrivain et journaliste. Ancien bolchévik, il est devenu un critique acharné du stalinisme après avoir été emprisonné et exilé. Ses *Mémoires d'un révolutionnaire* et ses romans comme *Les Années sans pardon* témoignent de son engagement pour un socialisme démocratique et internationaliste.",
+  "oeuvres": [
+    "Mémoires d'un révolutionnaire",
+    "Les Années sans pardon"
+  ],
+  "positions": "Marxisme critique — rejet du dogmatisme et défense d'un socialisme humain ; anti-stalinisme — dénonciation des crimes du régime soviétique ; internationalisme révolutionnaire — solidarité avec les luttes prolétariennes dans le monde.",
+  "citation": "Le révolutionnaire doit être un homme libre, sinon il n'est qu'un esclave rebelle."
+}
