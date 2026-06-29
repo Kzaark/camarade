@@ -1,0 +1,13 @@
+{
+  "id": "engels",
+  "nom": "Friedrich Engels",
+  "dates": "1820 — 1895",
+  "courant": ["marxisme", "socialisme scientifique", "matérialisme dialectique"],
+  "description": "Philosophe et révolutionnaire allemand, Friedrich Engels est le cofondateur du marxisme avec Karl Marx. Fils d'un industriel textile de Barmen, il observe directement les conditions de vie de la classe ouvrière anglaise et en tire une analyse rigoureuse. Ami et collaborateur indéfectible de Marx, il le soutient financièrement pendant des décennies tout en développant ses propres travaux théoriques. Après la mort de Marx, il édite les tomes II et III du Capital et devient la référence principale du mouvement socialiste international.",
+  "oeuvres": [
+    "La Situation de la classe laborieuse en Angleterre (1845)",
+    "L'Anti-Dühring (1878)"
+  ],
+  "positions": "Matérialisme dialectique et historique ; analyse scientifique du capitalisme ; défense de l'internationalisme ouvrier ; théorie de l'État comme instrument de domination de classe ; évolution du socialisme de l'utopie à la science.",
+  "citation": "La liberté ne consiste pas dans une indépendance imaginaire à l'égard des lois naturelles, mais dans la connaissance de ces lois et dans la possibilité qui en découle de les faire agir en vue de fins déterminées."
+}
