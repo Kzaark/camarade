@@ -1,0 +1,13 @@
+{
+  "id": "trotsky",
+  "nom": "Léon Trotsky",
+  "dates": "1879 — 1940",
+  "courant": ["trotskisme", "marxisme", "révolution permanente"],
+  "description": "Léon Trotsky, né Lev Davidovitch Bronstein en Ukraine, est l'un des principaux dirigeants de la révolution d'Octobre 1917 et fondateur de l'Armée rouge. Théoricien brillant et orateur hors pair, il développe la théorie de la révolution permanente — selon laquelle la révolution socialiste ne peut se limiter à un seul pays. Après la mort de Lénine, il perd la lutte pour le pouvoir face à Staline, est expulsé d'URSS en 1929 et assassiné au Mexique en 1940 par un agent stalinien. Son œuvre théorique reste une référence majeure du marxisme révolutionnaire.",
+  "oeuvres": [
+    "Le Programme de Transition (1938)",
+    "La Révolution trahie (1936)"
+  ],
+  "positions": "Révolution permanente — la révolution socialiste ne peut se limiter à un seul pays ; critique du stalinisme comme dégénérescence bureaucratique de la révolution ; internationalisme révolutionnaire ; défense de l'Armée rouge et des soviets comme formes du pouvoir ouvrier.",
+  "citation": "La vie est belle. Que les générations futures la débarrassent de tout mal, de toute oppression et de toute violence et en jouissent pleinement."
+}

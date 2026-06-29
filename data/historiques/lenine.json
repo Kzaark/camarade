@@ -1,0 +1,13 @@
+{
+  "id": "lenine",
+  "nom": "Lénine",
+  "dates": "1870 — 1924",
+  "courant": ["marxisme-léninisme", "bolchévisme", "impérialisme"],
+  "description": "Vladimir Ilitch Oulianov, dit Lénine, est le théoricien et dirigeant de la révolution bolchévique d'Octobre 1917. Né à Simbirsk en 1870, il se consacre dès sa jeunesse à la cause révolutionnaire après l'exécution de son frère par le tsarisme. Exilé en Europe pendant de longues années, il développe une théorie originale de l'organisation révolutionnaire — le parti d'avant-garde — et une analyse de l'impérialisme comme stade suprême du capitalisme. Dirigeant de l'URSS de 1917 à sa mort en 1924, il laisse une œuvre théorique considérable et une révolution dont le destin sera tragiquement dévoyé par Staline.",
+  "oeuvres": [
+    "L'Impérialisme, stade suprême du capitalisme (1917)",
+    "Que faire ? (1902)"
+  ],
+  "positions": "Parti révolutionnaire d'avant-garde comme instrument de la révolution ; théorie de l'impérialisme comme prolongement du capitalisme ; soviets comme forme de pouvoir ouvrier ; droit des peuples à l'autodétermination ; NEP comme compromis tactique.",
+  "citation": "La liberté est si précieuse qu'il faut la rationner."
+}

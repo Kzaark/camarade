@@ -1,0 +1,13 @@
+{
+  "id": "marx-engels",
+  "nom": "Karl Marx & Friedrich Engels",
+  "dates": "1818 — 1883 / 1820 — 1895",
+  "courant": ["marxisme", "socialisme scientifique", "communisme"],
+  "description": "Duo intellectuel et révolutionnaire fondateur du socialisme scientifique, Marx et Engels se rencontrent à Paris en 1844 et entament une collaboration qui durera toute leur vie. Ensemble ils forgent les outils théoriques du mouvement ouvrier mondial : matérialisme historique, critique de l'économie politique, théorie de la lutte des classes. Leur amitié est l'une des plus fécondes de l'histoire des idées révolutionnaires — Engels soutenant financièrement Marx pendant que celui-ci rédige Le Capital.",
+  "oeuvres": [
+    "Le Manifeste du Parti Communiste (1848)",
+    "L'Idéologie allemande (1845, publié posthumément)"
+  ],
+  "positions": "Lutte des classes comme moteur de l'histoire ; abolition de la propriété privée des moyens de production ; internationalisme prolétarien ; dépérissement de l'État dans la société communiste.",
+  "citation": "Prolétaires de tous les pays, unissez-vous !"
+}

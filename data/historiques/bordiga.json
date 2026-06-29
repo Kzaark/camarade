@@ -1,0 +1,13 @@
+{
+  "id": "bordiga",
+  "nom": "Amadeo Bordiga",
+  "dates": "1889 — 1970",
+  "courant": ["communisme de gauche", "gauche communiste italienne", "anti-parlementarisme"],
+  "description": "Amadeo Bordiga est le fondateur de la gauche communiste italienne et l'une des figures les plus intransigeantes du marxisme révolutionnaire du XXe siècle. Cofondateur du Parti Communiste Italien en 1921, il s'oppose dès le début à la politique de front populaire de l'Internationale Communiste et défend une ligne radicalement anti-parlementaire. Exclu du Komintern en 1928 pour son opposition à Staline, il reste fidèle toute sa vie à une vision rigoureuse et intransigeante du communisme, refusant tout compromis avec la démocratie bourgeoise. Figure marginale mais influente, il est redécouvert par la gauche radicale dans les années 1960.",
+  "oeuvres": [
+    "La Doctrine du Diable (1951)",
+    "Propriété et capital (1948)"
+  ],
+  "positions": "Anti-parlementarisme radical — refus de toute participation aux élections bourgeoises ; critique du frontisme et du réformisme ; invariance du programme communiste contre tout révisionnisme ; parti comme organe historique de la classe et non simple instrument électoral ; critique du nationalisme sous toutes ses formes.",
+  "citation": "Le parti est l'organe qui résume en lui la conscience historique de la classe."
+}

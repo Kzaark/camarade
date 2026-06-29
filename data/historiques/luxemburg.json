@@ -1,0 +1,13 @@
+{
+  "id": "luxemburg",
+  "nom": "Rosa Luxemburg",
+  "dates": "1871 — 1919",
+  "courant": ["marxisme", "spartakisme", "internationalisme", "anti-guerre"],
+  "description": "Rosa Luxemburg est l'une des figures les plus brillantes et les plus attachantes du marxisme révolutionnaire. Née en Pologne russe, elle s'installe en Allemagne où elle devient rapidement une référence théorique et militante du mouvement socialiste international. Opposée farouchement à la Première Guerre mondiale quand la social-démocratie capitule, elle fonde avec Karl Liebknecht la Ligue Spartakiste puis le Parti Communiste d'Allemagne. Arrêtée lors de la révolution allemande de 1919, elle est assassinée par les Corps francs sur ordre du gouvernement social-démocrate et son corps jeté dans un canal de Berlin.",
+  "oeuvres": [
+    "Réforme sociale ou révolution ? (1899)",
+    "L'Accumulation du capital (1913)"
+  ],
+  "positions": "Critique du révisionnisme de Bernstein — la révolution ne peut se réduire à la réforme ; internationalisme radical contre le nationalisme et la guerre ; critique de l'organisation léniniste comme trop autoritaire ; démocratie socialiste comme condition de l'émancipation ouvrière ; grève de masse comme outil révolutionnaire.",
+  "citation": "La liberté, c'est toujours la liberté de celui qui pense autrement."
+}

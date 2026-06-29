@@ -1,0 +1,13 @@
+{
+  "id": "kollontai",
+  "nom": "Alexandra Kollontaï",
+  "dates": "1872 — 1952",
+  "courant": ["marxisme", "féminisme marxiste", "bolchévisme"],
+  "description": "Alexandra Kollontaï est la principale théoricienne du féminisme marxiste et l'une des figures les plus originales de la révolution bolchévique. Née dans une famille aristocratique de Saint-Pétersbourg, elle rompt avec son milieu pour rejoindre le mouvement révolutionnaire. Commissaire du peuple à l'Assistance sociale en 1917, elle est la première femme à occuper un poste ministériel dans l'histoire moderne. Fondatrice de l'Opposition ouvrière, elle critique la bureaucratisation croissante du parti bolchévique. Première femme ambassadrice de l'histoire, elle représente l'URSS en Norvège, au Mexique et en Suède.",
+  "oeuvres": [
+    "La Femme nouvelle et la classe ouvrière (1913)",
+    "L'Opposition ouvrière (1921)"
+  ],
+  "positions": "Émancipation des femmes comme condition de la révolution socialiste ; critique de la famille bourgeoise et de l'amour romantique comme instruments d'oppression ; autogestion ouvrière contre la bureaucratie du parti ; socialisation du travail domestique et de l'éducation des enfants.",
+  "citation": "Faire place à l'Éros ailé, voilà la tâche de l'époque prolétarienne."
+}

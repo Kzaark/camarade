@@ -1,0 +1,13 @@
+{
+  "id": "gramsci",
+  "nom": "Antonio Gramsci",
+  "dates": "1891 — 1937",
+  "courant": ["marxisme", "communisme", "hégémonie culturelle"],
+  "description": "Antonio Gramsci est le principal théoricien marxiste de la culture et de l'hégémonie. Né en Sardaigne dans une famille modeste, il devient l'un des fondateurs du Parti Communiste Italien en 1921. Arrêté par le régime fasciste de Mussolini en 1926, le procureur fasciste déclare lors de son procès : 'Nous devons empêcher ce cerveau de fonctionner pendant vingt ans.' Emprisonné jusqu'à sa mort, il rédige clandestinement ses célèbres Cahiers de prison, une œuvre théorique monumentale sur la culture, l'État et la révolution. Il meurt en 1937, épuisé par dix ans de captivité.",
+  "oeuvres": [
+    "Cahiers de prison (1929-1935, publiés posthumément)",
+    "Lettres de prison (1926-1937)"
+  ],
+  "positions": "Hégémonie culturelle — la domination bourgeoise s'exerce autant par la culture que par la force ; guerre de position contre guerre de mouvement dans les sociétés occidentales ; rôle des intellectuels organiques dans la construction d'un bloc historique alternatif ; importance de la société civile dans la transformation révolutionnaire.",
+  "citation": "Je suis pessimiste par l'intelligence, mais optimiste par la volonté."
+}

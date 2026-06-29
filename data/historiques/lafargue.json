@@ -1,0 +1,13 @@
+{
+  "id": "lafargue",
+  "nom": "Paul Lafargue",
+  "dates": "1842 — 1911",
+  "courant": ["marxisme", "socialisme", "critique du travail"],
+  "description": "Paul Lafargue est un révolutionnaire franco-cubain, gendre de Karl Marx et l'un des fondateurs du Parti Ouvrier Français. Né à Santiago de Cuba, il étudie la médecine à Paris où il rencontre Marx dont il épouse la fille Laura. Militant infatigable du mouvement ouvrier international, il est surtout connu pour son pamphlet provocateur Le Droit à la paresse, critique radicale du culte bourgeois du travail. Fidèle à ses convictions jusqu'au bout, il se suicide avec sa femme en 1911 estimant qu'à 70 ans il ne pouvait plus servir utilement la cause révolutionnaire.",
+  "oeuvres": [
+    "Le Droit à la paresse (1880)",
+    "La Religion du capital (1887)"
+  ],
+  "positions": "Critique radicale du culte du travail comme instrument d'oppression capitaliste ; droit à la paresse et au loisir comme revendication révolutionnaire ; matérialisme historique appliqué à la religion et à la morale bourgeoise ; internationalisme ouvrier.",
+  "citation": "Une étrange folie possède les classes ouvrières des nations où règne la civilisation capitaliste. Cette folie entraîne à sa suite des misères individuelles et sociales qui, depuis deux siècles, torturent la triste humanité. Cette folie est l'amour du travail."
+}
