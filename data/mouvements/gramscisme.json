@@ -1,0 +1,23 @@
+{
+  "id": "gramscisme",
+  "nom": "Gramscisme",
+  "période": "Années 1920 — aujourd'hui",
+  "description": "Courant marxiste développé par Antonio Gramsci, centré sur la notion d'**hégémonie culturelle** : la domination ne s'exerce pas seulement par la force, mais aussi par le consentement des dominés, via les institutions (école, médias, religion). Gramsci insiste sur la nécessité pour les classes opprimées de construire leur propre culture et contre-pouvoir. Ses *Cahiers de prison* restent une référence pour les stratégies révolutionnaires non violentes.",
+  "figures_majeures": [
+    "Antonio Gramsci",
+    "Chantal Mouffe",
+    "Ernest Laclau"
+  ],
+  "oeuvres_majeures": [
+    "Cahiers de prison (Gramsci, 1929-1935)",
+    "L'Hégémonie et la stratégie socialiste (Laclau & Mouffe, 1985)",
+    "Les Intellectuels et l'organisation de la culture (Gramsci)",
+    "Gramci et le marxisme (Christine Buci-Glucksmann, 1975)",
+    "Pour un nouveau sens commun (Gramsci)"
+  ],
+  "cas_concrets": [
+    "Résistance culturelle sous le fascisme italien (années 1920-1930) : Gramsci analyse comment le prolétariat peut résister à la propagande mussolinienne.",
+    "Mouvements sociaux en Amérique latine (années 1980-2000) : Influence du gramscisme sur les stratégies de contre-hégémonie (ex : Brésil, Argentine).",
+    "Médias alternatifs (aujourd'hui) : Création de contre-médias pour briser l'hégémonie capitaliste."
+  ]
+}

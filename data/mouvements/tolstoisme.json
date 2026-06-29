@@ -1,0 +1,23 @@
+{
+  "id": "tolstoisme",
+  "nom": "Tolstoïsme",
+  "période": "Années 1880 — aujourd'hui",
+  "description": "Courant anarchiste et pacifiste inspiré par les écrits de **Léon Tolstoï**, notamment *Le Royaume de Dieu est en vous* (1894). Le tolstoïsme prône la **non-violence absolue**, le rejet de l'État, de la propriété privée et de toute institution oppressive (y compris l'Église). Il a influencé des mouvements comme celui de Gandhi en Inde et des communautés libertaires en Russie.",
+  "figures_majeures": [
+    "Léon Tolstoï",
+    "Mohandas Gandhi",
+    "Ivan Illich"
+  ],
+  "oeuvres_majeures": [
+    "Le Royaume de Dieu est en vous (Tolstoï, 1894)",
+    "La Sonate à Kreutzer (Tolstoï, 1889)",
+    "La Résurrection (Tolstoï, 1899)",
+    "Hind Swaraj (Gandhi, 1909, inspiré par Tolstoï)",
+    "La Déscolarisation de la société (Illich, 1971, influence tolstoïenne)"
+  ],
+  "cas_concrets": [
+    "Communautés tolstoïennes en Russie (fin XIXe siècle) : Villages autogérés rejetant l'État et la propriété.",
+    "Mouvement de non-coopération en Inde (1920-1947) : Gandhi s'inspire de Tolstoï pour sa lutte non violente contre le colonialisme britannique.",
+    "Objection de conscience (XXe siècle) : Refus du service militaire pour des raisons éthiques, inspiré par Tolstoï."
+  ]
+}

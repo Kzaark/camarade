@@ -1,0 +1,23 @@
+{
+  "id": "anarcho-syndicalisme",
+  "nom": "Anarcho-syndicalisme",
+  "période": "Fin XIXe siècle — aujourd'hui",
+  "description": "Courant anarchiste qui voit dans les **syndicats** le principal outil de lutte pour l'émancipation des travailleurs. Contrairement au syndicalisme réformiste, l'anarcho-syndicalisme prône l'action directe (grèves générales, sabotages, occupations) et l'autogestion des moyens de production. Il a été particulièrement influent en Espagne (CNT) et aux États-Unis (IWW).",
+  "figures_majeures": [
+    "Rudolf Rocker",
+    "Fernand Pelloutier",
+    "Buenaventura Durruti"
+  ],
+  "oeuvres_majeures": [
+    "L'Anarcho-syndicalisme (Rocker, 1938)",
+    "La Grève générale (Pelloutier, 1906)",
+    "Vers la révolution sociale (Durruti, 1936)",
+    "Les Syndicats et la Révolution (collectif, CNT-FAI)",
+    "L'Action directe (Émile Pouget, 1910)"
+  ],
+  "cas_concrets": [
+    "Révolution espagnole (1936-1939) : La CNT-FAI organise des milices et des collectivisations en Catalogne et en Aragon.",
+    "Grèves générales en France (1906, 1936) : Mobilisations massives pour la journée de 8 heures.",
+    "IWW (Industrial Workers of the World, États-Unis, 1905) : Syndicat révolutionnaire prônant l'union de tous les travailleurs."
+  ]
+}

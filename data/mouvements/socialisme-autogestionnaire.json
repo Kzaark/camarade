@@ -1,0 +1,23 @@
+{
+  "id": "socialisme-autogestionnaire",
+  "nom": "Socialisme autogestionnaire",
+  "période": "Années 1950 — aujourd'hui",
+  "description": "Courant socialiste prônant la gestion directe des entreprises et des ressources par les travailleurs eux-mêmes, sans État centralisé ni capitalisme. Inspiré par les expériences yougoslaves (1950-1970) et les théories de Marx sur l'émancipation ouvrière, il vise une démocratie économique radicale. Ce courant a influencé des mouvements comme l'autogestion en France (LIP, 1973) et les coopératives ouvrières.",
+  "figures_majeures": [
+    "Henri Lefebvre",
+    "Cornelius Castoriadis",
+    "Michel Rocard"
+  ],
+  "oeuvres_majeures": [
+    "La Société bureaucratique (Castoriadis, 1973)",
+    "L'Autogestion (Lefebvre, 1976)",
+    "Socialisme et autogestion (Rocard, 1976)",
+    "La Brèche (revue, années 1960-1970)",
+    "Le Contenu du socialisme (Castoriadis, 1979)"
+  ],
+  "cas_concrets": [
+    "Expérience yougoslave (1950-1970) : Autogestion des usines sous Tito, bien que limitée par le parti unique.",
+    "LIP (France, 1973) : Usine horlogère autogérée par ses ouvriers pendant un an.",
+    "Coopératives de Mondragon (Espagne, depuis 1956) : Modèle d'entreprise autogérée toujours en activité."
+  ]
+}

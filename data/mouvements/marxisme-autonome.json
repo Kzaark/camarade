@@ -1,0 +1,23 @@
+{
+  "id": "marxisme-autonome",
+  "nom": "Marxisme autonome",
+  "période": "Années 1960 — aujourd'hui",
+  "description": "Courant marxiste né en Italie, centré sur l'**autonomie de la classe ouvrière** face aux partis et syndicats traditionnels. Il analyse les luttes dans les usines (ex : refus du travail, sabotages) comme des formes de résistance au capitalisme. Le marxisme autonome rejette le léninisme et insiste sur la capacité des travailleurs à s'organiser eux-mêmes, sans avant-garde.",
+  "figures_majeures": [
+    "Antonio Negri",
+    "Mario Tronti",
+    "Silvia Federici"
+  ],
+  "oeuvres_majeures": [
+    "Ouvriers et Capital (Tronti, 1966)",
+    "L'Ouvrier multitude (Negri, 1992)",
+    "Caliban et la Sorcière (Federici, 2004)",
+    "La Classe ouvrière contre l'État (collectif, 1972)",
+    "Empire (Negri & Hardt, 2000)"
+  ],
+  "cas_concrets": [
+    "Luttes ouvrières en Italie (1969-1973) : Grèves sauvages et refus du travail chez Fiat (Turin).",
+    "Mouvement *Potere Operaio* (1969-1973) : Organisation autonome des ouvriers italiens.",
+    "Mouvements anti-travail (aujourd'hui) : Critique du salariat et promotion du revenu universel."
+  ]
+}

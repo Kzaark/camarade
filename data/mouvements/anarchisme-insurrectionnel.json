@@ -1,0 +1,23 @@
+{
+  "id": "anarchisme-insurrectionnel",
+  "nom": "Anarchisme insurrectionnel",
+  "période": "Années 1880 — aujourd'hui",
+  "description": "Courant anarchiste prônant la **violence révolutionnaire** comme moyen de provoquer un soulèvement populaire contre l'État et le capitalisme. Inspiré par des figures comme Bakounine ou Ravachol, il considère que les attentats et les rébellions locales peuvent déclencher une révolution sociale plus large. Critiqué pour son romantisme de la violence, il a marqué l'histoire des luttes anarchistes en Europe et en Amérique.",
+  "figures_majeures": [
+    "Luigi Galleani",
+    "Ravachol",
+    "Émile Henry"
+  ],
+  "oeuvres_majeures": [
+    "La Fin de l'anarchisme (Galleani, 1906)",
+    "Écrits (Ravachol, 1892)",
+    "Un anarchiste : le crime de la société (Émile Henry, 1894)",
+    "La Propagande par le fait (brochures anonymes, XIXe siècle)",
+    "L'Homme révolté (Camus, 1951, critique)"
+  ],
+  "cas_concrets": [
+    "Attentats de la 'propagande par le fait' (France, 1890-1900) : Vague d'attentats anarchistes contre des symboles du capitalisme (ex : bombe à la Chambre des députés, 1893).",
+    "Révolte de Haymarket (Chicago, 1886) : Manifestation ouvrière réprimée dans le sang, devenue symbole de la lutte anarchiste.",
+    "Mouvement *Informal Anarchist Federation* (FAI, aujourd'hui) : Actions directes en Europe contre les institutions."
+  ]
+}

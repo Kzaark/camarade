@@ -1,0 +1,23 @@
+{
+  "id": "eco-anarchisme",
+  "nom": "Éco-anarchisme",
+  "période": "Années 1970 — aujourd'hui",
+  "description": "Courant anarchiste centré sur la **défense de la nature** et la critique du capitalisme comme système destructeur de l'environnement. L'éco-anarchisme prône des communautés autogérées, écologiques et anti-autoritaires, souvent inspirées par les travaux de Murray Bookchin (écologie sociale) ou de David Foreman (Earth First!). Il combine action directe (sabotages écologiques) et construction d'alternatives locales.",
+  "figures_majeures": [
+    "Murray Bookchin",
+    "David Foreman",
+    "Starhawk"
+  ],
+  "oeuvres_majeures": [
+    "Écologie ou catastrophisme (Bookchin, 1974)",
+    "Ecodefense: A Field Guide to Monkeywrenching (Foreman, 1985)",
+    "Le Rêve de la raison (Bookchin, 1982)",
+    "La Danse du pouvoir (Starhawk, 1987)",
+    "La Société contre l'État (Pierre Clastres, 1974, influence)"
+  ],
+  "cas_concrets": [
+    "Earth First! (États-Unis, 1980) : Actions directes contre l'exploitation forestière et les barrages.",
+    "ZAD de Notre-Dame-des-Landes (France, 2009-2018) : Occupation et résistance contre un aéroport, avec des pratiques éco-anarchistes.",
+    "Mouvements contre les OGM (années 1990-2000) : Destruction de champs transgéniques en Europe et en Inde."
+  ]
+}
