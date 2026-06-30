@@ -26,7 +26,8 @@ VERSION = "1.0.0"
 
 # Chemins
 DATA_DIR        = "/usr/local/share/camarade/data"
-HISTORIQUES_DIR = os.path.join(DATA_DIR, "historiques")
+AUTEURS_DIR     = os.path.join(DATA_DIR, "auteurs")
+MOUVEMENTS_DIR   = os.path.join(DATA_DIR, "mouvements")
 
 # Couleurs ANSI
 class Couleurs:
@@ -43,51 +44,109 @@ class Couleurs:
 # ─────────────────────────────────────────
 
 def lire_historique(fichier: str) -> dict:
-    chemin = os.path.join(HISTORIQUES_DIR, fichier)
+    chemin = os.path.join(AUTEURS_DIR, fichier)
     if not os.path.exists(chemin):
         return {}
     with open(chemin, "r", encoding="utf-8") as f:
         return json.load(f)
 
 def lire_tous_historiques() -> list:
-    if not os.path.exists(HISTORIQUES_DIR):
+    """Lit tous les fichiers JSON des auteurs ET des mouvements."""
+    fiches = []
+    if os.path.exists(AUTEURS_DIR):
+        for f in os.listdir(AUTEURS_DIR):
+            if f.endswith(".json"):
+                fiche = lire_historique(f)
+                if fiche:
+                    fiche["type"] = "auteur"
+                    fiches.append(fiche)
+    if os.path.exists(MOUVEMENTS_DIR):
+        for f in os.listdir(MOUVEMENTS_DIR):
+            if f.endswith(".json"):
+                fiche = lire_mouvement(f)
+                if fiche:
+                    fiche["type"] = "mouvement"
+                    fiches.append(fiche)
+    return fiches
+
+def lire_mouvement(fichier: str) -> dict:
+    """Lit un fichier JSON de mouvement."""
+    chemin = os.path.join(MOUVEMENTS_DIR, fichier)
+    if not os.path.exists(chemin):
+        return {}
+    with open(chemin, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+def lire_tous_mouvements() -> list:
+    """Lit tous les fichiers JSON des mouvements."""
+    if not os.path.exists(MOUVEMENTS_DIR):
         return []
     fiches = []
-    for f in os.listdir(HISTORIQUES_DIR):
+    for f in os.listdir(MOUVEMENTS_DIR):
         if f.endswith(".json"):
-            fiche = lire_historique(f)
+            fiche = lire_mouvement(f)
             if fiche:
                 fiches.append(fiche)
     return fiches
 
 def afficher_historique(fiche: dict):
-    nom       = fiche.get("nom", "?")
-    dates     = fiche.get("dates", "?")
-    courant   = fiche.get("courant", [])
-    desc      = fiche.get("description", "")
-    oeuvres   = fiche.get("oeuvres", [])
-    positions = fiche.get("positions", "")
-    citation  = fiche.get("citation", "")
+    """Affiche une fiche (auteur OU mouvement)."""
+    if fiche.get("type") == "auteur" or "nom" in fiche:
+        nom       = fiche.get("nom", "?")
+        dates     = fiche.get("dates", "?")
+        courant   = fiche.get("courant", [])
+        desc      = fiche.get("description", "")
+        oeuvres   = fiche.get("oeuvres", [])
+        positions = fiche.get("positions", "")
+        citation  = fiche.get("citation", "")
 
-    print(f"\n{Couleurs.BOLD}{Couleurs.ROUGE}✊ {nom}{Couleurs.RESET}")
-    print(f"{Couleurs.JAUNE}{dates}{Couleurs.RESET}")
+        print(f"\n{Couleurs.BOLD}{Couleurs.ROUGE}✊ {nom}{Couleurs.RESET}")
+        print(f"{Couleurs.JAUNE}{dates}{Couleurs.RESET}")
 
-    if courant:
-        print(f"{Couleurs.GRIS}{Couleurs.ITALIQUE}{', '.join(courant)}{Couleurs.RESET}")
+        if courant:
+            print(f"{Couleurs.GRIS}{Couleurs.ITALIQUE}{', '.join(courant)}{Couleurs.RESET}")
 
-    print(f"\n{desc}")
+        print(f"\n{desc}")
 
-    if oeuvres:
-        print(f"\n{Couleurs.BOLD}Œuvres majeures :{Couleurs.RESET}")
-        for o in oeuvres:
-            print(f"  • {o}")
+        if oeuvres:
+            print(f"\n{Couleurs.BOLD}Œuvres majeures :{Couleurs.RESET}")
+            for o in oeuvres:
+                print(f"  • {o}")
 
-    if positions:
-        print(f"\n{Couleurs.BOLD}Positions :{Couleurs.RESET}")
-        print(f"  {positions}")
+        if positions:
+            print(f"\n{Couleurs.BOLD}Positions :{Couleurs.RESET}")
+            print(f"  {positions}")
 
-    if citation:
-        print(f"\n{Couleurs.JAUNE}{Couleurs.ITALIQUE}« {citation} »{Couleurs.RESET}")
+        if citation:
+            print(f"\n{Couleurs.JAUNE}{Couleurs.ITALIQUE}« {citation} »{Couleurs.RESET}")
+
+    elif fiche.get("type") == "mouvement":
+        nom       = fiche.get("nom", "?")
+        periode   = fiche.get("période", "?")
+        desc      = fiche.get("description", "")
+        figures   = fiche.get("figures_majeures", [])
+        oeuvres   = fiche.get("oeuvres_majeures", [])
+        cas       = fiche.get("cas_concrets", [])
+
+        print(f"\n{Couleurs.BOLD}{Couleurs.VERT}🌍 {nom}{Couleurs.RESET}")
+        print(f"{Couleurs.JAUNE}{periode}{Couleurs.RESET}")
+
+        if figures:
+            print(f"\n{Couleurs.BOLD}Figures majeures :{Couleurs.RESET}")
+            for fig in figures:
+                print(f"  • {fig}")
+
+        print(f"\n{desc}")
+
+        if oeuvres:
+            print(f"\n{Couleurs.BOLD}Œuvres majeures :{Couleurs.RESET}")
+            for o in oeuvres:
+                print(f"  • {o}")
+
+        if cas:
+            print(f"\n{Couleurs.BOLD}Cas concrets :{Couleurs.RESET}")
+            for c in cas:
+                print(f"  • {c}")
 
     print()
 
@@ -123,10 +182,19 @@ def cmd_list():
     if not fiches:
         print("Aucune fiche historique trouvée.")
         return
-    print(f"\n{Couleurs.BOLD}Figures historiques disponibles :{Couleurs.RESET}\n")
-    for f in sorted(fiches, key=lambda x: x.get("nom", "")):
+
+    auteurs = [f for f in fiches if f.get("type") == "auteur"]
+    mouvements = [f for f in fiches if f.get("type") == "mouvement"]
+
+    print(f"\n{Couleurs.BOLD}{Couleurs.ROUGE}✊ Figures historiques disponibles :{Couleurs.RESET}\n")
+    for f in sorted(auteurs, key=lambda x: x.get("nom", "")):
         courant = f.get("courant", [])
         print(f"  {Couleurs.ROUGE}{f.get('nom', '?')}{Couleurs.RESET} — {Couleurs.GRIS}{', '.join(courant)}{Couleurs.RESET}")
+
+    print(f"\n{Couleurs.BOLD}{Couleurs.VERT}🌍 Mouvements disponibles :{Couleurs.RESET}\n")
+    for f in sorted(mouvements, key=lambda x: x.get("nom", "")):
+        print(f"  {Couleurs.VERT}{f.get('nom', '?')}{Couleurs.RESET} — {Couleurs.GRIS}{f.get('période', '?')}{Couleurs.RESET}")
+
     print()
 
 def cmd_search(mot: str):
@@ -137,7 +205,9 @@ def cmd_search(mot: str):
         if mot_lower in f.get("nom", "").lower()
         or mot_lower in f.get("description", "").lower()
         or mot_lower in f.get("positions", "").lower()
+        or mot_lower in f.get("période", "").lower()
         or mot_lower in " ".join(f.get("courant", [])).lower()
+        or mot_lower in " ".join(f.get("figures_majeures", [])).lower()
     ]
     if not resultats:
         print(f"Aucune fiche trouvée pour '{mot}'.")
@@ -175,13 +245,13 @@ def desactiver_couleurs():
 
 def cmd_aide():
     print("""
-camarade — Fiches de figures révolutionnaires dans ton terminal
+camarade — Fiches de figures révolutionnaires et mouvements dans ton terminal
 
 Usage :
-  camarade                      Figure historique aléatoire
-  camarade <nom>                Cherche une figure précise
-  camarade --list               Liste toutes les figures historiques
-  camarade --search <mot>       Recherche dans les fiches
+  camarade                      Figure ou mouvement aléatoire
+  camarade <nom>                Cherche une figure ou un mouvement précis
+  camarade --list               Liste toutes les figures et mouvements
+  camarade --search <mot>       Recherche dans les fiches (auteurs ET mouvements)
   camarade --no-color           Désactive la colorisation
   camarade --update             Met à jour camarade
   camarade --version            Affiche la version installée
@@ -190,7 +260,8 @@ Usage :
 Exemples :
   camarade
   camarade luxemburg
-  camarade --search anarchisme
+  camarade anarchisme
+  camarade --search féminisme
   camarade --list
 """)
 
