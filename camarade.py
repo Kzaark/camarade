@@ -164,6 +164,14 @@ def cmd_aleatoire():
 def cmd_chercher(nom: str):
     fiches = lire_tous_historiques()
     nom_lower = nom.lower()
+    exact = [
+        f for f in fiches
+        if nom_lower == f.get("id", "").lower()
+        or nom_lower == f.get("nom", "").lower()
+    ]
+    if exact:
+        afficher_historique(exact[0])
+        return
     resultats = [
         f for f in fiches
         if nom_lower in f.get("nom", "").lower()
