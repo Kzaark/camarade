@@ -40,7 +40,7 @@ class Couleurs:
     RESET    = "\033[0m"
 
 # ─────────────────────────────────────────
-# Fiches historiques
+# Fiches
 # ─────────────────────────────────────────
 
 def lire_historique(fichier: str) -> dict:
@@ -91,7 +91,7 @@ def lire_tous_mouvements() -> list:
 
 def afficher_historique(fiche: dict):
     """Affiche une fiche (auteur OU mouvement)."""
-    if fiche.get("type") == "auteur" or "nom" in fiche:
+    if fiche.get("type") == "auteur":
         nom       = fiche.get("nom", "?")
         dates     = fiche.get("dates", "?")
         courant   = fiche.get("courant", [])
