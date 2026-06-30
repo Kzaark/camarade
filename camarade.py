@@ -100,7 +100,7 @@ def afficher_historique(fiche: dict):
         positions = fiche.get("positions", "")
         citation  = fiche.get("citation", "")
 
-        print(f"\n{Couleurs.BOLD}{Couleurs.ROUGE}✊ {nom}{Couleurs.RESET}")
+        print(f"\n{Couleurs.BOLD}{Couleurs.ROUGE}{nom}{Couleurs.RESET}")
         print(f"{Couleurs.JAUNE}{dates}{Couleurs.RESET}")
 
         if courant:
@@ -128,7 +128,7 @@ def afficher_historique(fiche: dict):
         oeuvres   = fiche.get("oeuvres_majeures", [])
         cas       = fiche.get("cas_concrets", [])
 
-        print(f"\n{Couleurs.BOLD}{Couleurs.VERT}🌍 {nom}{Couleurs.RESET}")
+        print(f"\n{Couleurs.BOLD}{Couleurs.VERT}{nom}{Couleurs.RESET}")
         print(f"{Couleurs.JAUNE}{periode}{Couleurs.RESET}")
 
         if figures:
@@ -186,12 +186,12 @@ def cmd_list():
     auteurs = [f for f in fiches if f.get("type") == "auteur"]
     mouvements = [f for f in fiches if f.get("type") == "mouvement"]
 
-    print(f"\n{Couleurs.BOLD}{Couleurs.ROUGE}✊ Figures historiques disponibles :{Couleurs.RESET}\n")
+    print(f"\n{Couleurs.BOLD}{Couleurs.ROUGE}Figures historiques disponibles :{Couleurs.RESET}\n")
     for f in sorted(auteurs, key=lambda x: x.get("nom", "")):
         courant = f.get("courant", [])
         print(f"  {Couleurs.ROUGE}{f.get('nom', '?')}{Couleurs.RESET} — {Couleurs.GRIS}{', '.join(courant)}{Couleurs.RESET}")
 
-    print(f"\n{Couleurs.BOLD}{Couleurs.VERT}🌍 Mouvements disponibles :{Couleurs.RESET}\n")
+    print(f"\n{Couleurs.BOLD}{Couleurs.VERT}Mouvements disponibles :{Couleurs.RESET}\n")
     for f in sorted(mouvements, key=lambda x: x.get("nom", "")):
         print(f"  {Couleurs.VERT}{f.get('nom', '?')}{Couleurs.RESET} — {Couleurs.GRIS}{f.get('période', '?')}{Couleurs.RESET}")
 
